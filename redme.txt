@@ -5,5 +5,3 @@ Alhamdulillah For everthing
 hello
 
 i am sabbir.
-
-i wrote text from new_b branch
