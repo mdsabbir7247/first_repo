@@ -1,9 +1,3 @@
-alhamdulilah
-
-Alhamdulillah For everthing
-
-hello
-
+alhamdulilah,
+Alhamdulillah For everthing,
 i am sabbir.
-
-i wrote text from new_b branch
